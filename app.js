@@ -2,4 +2,15 @@
 let nombres = [];
 
 //funcion para crear amigos
+function agregarAmigo() {
+  let amigo = document.getElementById("amigo").value;
+  if (amigo === "") {
+    alert("Debes ingresar un nombre");
+    return;
+  }else{
+    nombres.push(amigo);
+  }
+  document.getElementById("amigo").value = "";
+  console.log(nombres);
+}
 
