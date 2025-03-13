@@ -37,9 +37,4 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios agregar
 │── assets/      # Imágenes y otros recursos
 ```
 
-## 🔮 Mejoras futuras
-🔹 Opción para eliminar nombres antes de sortear.  
-🔹 Asegurar que nadie se auto-asigne como su propio amigo secreto.  
-🔹 Diseño más atractivo con animaciones.  
-
 ---
